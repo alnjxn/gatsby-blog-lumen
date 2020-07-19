@@ -30,12 +30,14 @@
 
     &-description {
       font-size: $typographic-base-font-size;
+      color: $color-secondary;
       @include line-height(1);
       @include margin-bottom(.75);
     }
 
     &-meta {
       &-time {
+        font-family: $typographic-font-family-header;
         font-size: $typographic-small-font-size;
         color: $color-base;
         font-weight: 600;
@@ -48,6 +50,7 @@
 
       &-category {
         &-link {
+          font-family: $typographic-font-family-header;
           font-size: $typographic-small-font-size;
           color: $color-secondary;
           font-weight: 600;

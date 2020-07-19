@@ -3,6 +3,7 @@
 
 .menu {
   @include margin-bottom(1);
+  font-family: $typographic-font-family-header;
 
   &__list {
     list-style: none;
