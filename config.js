@@ -27,9 +27,9 @@ module.exports = {
     contacts: {
       email: '',
       facebook: '',
-      telegram: 'alnxn',
-      twitter: 'alnxn',
-      github: 'alnxn',
+      telegram: 'alnjxn',
+      twitter: 'alnjxn',
+      github: 'alnjxn',
       rss: '',
       vkontakte: '',
       linkedin: '',
